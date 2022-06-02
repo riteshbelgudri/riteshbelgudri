@@ -2,7 +2,7 @@
 - 👀 I’m interested in FPGA Design, Acceleration Systems
 - 🌱 I’m currently learning IPU (Infrastructure Processing Unit)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ritesh.belgudri@intrl.eocm
+- 📫 How to reach me ritesh.belgudri@intel.com
 
 <!---
 riteshbelgudri/riteshbelgudri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
